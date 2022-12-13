@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parrotdevelopers254
+- 👋 Hi, I’m Robert Kamau
 - 😎 A full-stack web developer.
 - 💞️ I am enthusiastic about anything to do with python & cpp.
 - 📫 How to reach me parrotdevelopers254@gmail.com
