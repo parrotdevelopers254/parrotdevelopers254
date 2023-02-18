@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Robert Kamau<br>😎 A full-stack web developer.<br>💞️ I am enthusiastic about anything to do with python & cpp.<br>📫 How to reach me parrotdevelopers254@gmail.com<br>📞or you can holla me on +254745414357
+👋 Hi, I’m Robert Kamau<br>😎 A full-stack web developer.<br>💞️ I am enthusiastic about anything to do with tech, especially database management, data analysis and networking.<br>📫 How to reach me parrotdevelopers254@gmail.com<br>📞or you can holla me on +254745414357
 
 
 ## 🌐 Socials:
